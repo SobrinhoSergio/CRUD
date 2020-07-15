@@ -3,7 +3,7 @@
 //Conexão
 include_once 'php_action/db-connect.php';
 
-//Header
+//Header.
 
 include_once 'includes/header.php';
 
