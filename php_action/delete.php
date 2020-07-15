@@ -3,7 +3,7 @@
 //sesão
 session_start();
 
-//Conexão 
+//Conexão.
 require_once 'db-connect.php';
 
 if(isset($_POST['btn-deletar'])):
